@@ -1,7 +1,16 @@
-# Car-Dealer-Flutter
-Just a rewritten copy of Car UI Demo Flutter
+# uvento
 
-#Made for flutter practices since I am still a beginner
+An Uvento App
 
-## Original Code
-  [https://github.com/aymansainshy/CarAppUiDemo]
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
